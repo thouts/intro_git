@@ -5,3 +5,4 @@ gitの練習
 -git commit
 -git remove
 -git stasus
+-get diff
